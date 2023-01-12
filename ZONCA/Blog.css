@@ -1,0 +1,112 @@
+body
+{
+  background-image: url("informatique.jpg");
+}
+
+p
+{
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  border: 3px solid #0A61B8;
+  padding: 10px;
+  background-color: black;
+  color: white  ;
+  border-radius: 10px;
+}
+
+.identite
+{
+	margin: 10px;
+	width: 35%;
+	text-align: left;
+	font-family: Arial, sans-serif;
+	border: 3px solid #0A61B8;
+	font-size: 20px;
+	padding: 5px;
+	background-color: black ;
+	color: white ;
+	border-radius: 10px;
+	
+}
+
+.Etablissement
+{
+	border: 2px solid black;
+	width: 35%;
+	margin: 10px;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	color: white;
+	background-color: black ;
+	border: 3px solid #0A61B8 ;
+	border-radius: 10px;
+}
+
+.Description
+{
+	width: auto;
+	width: auto%;
+	font-family: Arial, sans-serif;
+	font-weight: normal;
+	color: white ;
+	background-color: black ;
+	border: 3px solid black;
+	border-radius: 10px;
+}
+
+aside {
+  width: auto;
+  height: 1550px;
+  padding: 15px;
+  margin-left: 15px;
+  text-align: left;
+  float: right;
+  font-style: italic;
+  background-color: black ;
+  color: white ;
+  border: 3px solid #0A61B8 ;
+  border-radius: 10px;;
+}
+
+h2
+{
+	width: 35%;
+	padding: 10px;
+	font-family: Arial, sans-serif;
+	background-color: black ;
+	color: white ;	
+	border: 3px solid #0A61B8 ;
+	border-radius: 10px;
+}
+
+.Emploi
+{
+	background-color: white;
+	width: 35%;
+	margin: 10px;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	color: white ;
+	background-color: black ;
+	border: 3px solid #0A61B8 ;
+	border-radius: 10px;
+}
+
+h3
+{
+	font-family: Arial, sans-serif;
+	font-style: bold;
+	border: 3px solid #0A61B8 ;
+	width: 35%;
+	border-radius: 10px;
+}
+
+a
+{
+	color: white  ;
+}
