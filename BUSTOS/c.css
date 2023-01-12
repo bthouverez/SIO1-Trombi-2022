@@ -1,0 +1,141 @@
+
+
+
+
+body
+{
+	background-color: #a3c1ad;
+}
+aside a
+{
+    font-size: 1.01em;
+    color: #026a5d;
+
+}
+
+aside a:hover
+{
+    color: #A3B1BA;
+
+}
+nav a
+{
+    font-size: 3em;
+    color: #A3B1BA;
+    text-decoration: none;
+}
+
+nav a:hover
+{
+    color: #7289DA;
+}
+
+footer
+{
+	margin-top: auto;
+}
+
+footer p
+{
+	font-size: 1.5em;
+}
+
+nav ul
+{
+	list-style-type: none;
+	display: flex;
+}
+
+nav li
+{
+	margin: auto;
+}
+
+.r
+{
+	width: 700px;
+
+	min-height: 250px;
+
+	background-color: #23272A;
+
+	color: #dee1e5;
+
+	margin: auto;
+
+	border: 3px solid #0c0c0c
+}
+.logol
+{
+	 margin: auto;
+	
+	 font-size: 75px ;
+
+	 
+
+	 min-height: 65px;
+
+	 min-width: 500px;
+
+	 background-color: #8c92ac;
+	
+	
+	 
+	 
+}
+
+
+.flottant
+{
+	float: left;
+	padding: 20px;
+}
+.suite_site
+{
+	clear: left;
+	color: black;
+}
+
+.metie
+{
+	width: 35px;
+
+	margin: auto;
+}
+
+.logoo
+{
+	width: 60px;
+	height: 60px
+}
+
+.pl
+{
+	min-width: 150px;
+
+	min-height: 250px;
+
+	background-color: #23272A;
+
+	color: #dee1e5;
+
+	margin:auto;
+
+	border: 3px solid #0c0c0c
+}
+#blok2
+{
+	display: flex;
+	
+	flex-wrap : wrap;
+	
+	flex-direction: row;
+
+	
+}
+#blok
+{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
