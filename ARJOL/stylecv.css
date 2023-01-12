@@ -1,0 +1,22 @@
+h1 , h3 { color : #FFF6DD}
+body {background: rgb(72,78,94);
+background: linear-gradient(90deg, rgba(72,78,94,1) 0%, rgba(72,78,94,1) 35%, rgba(255,255,255,1) 35%);}
+h2 {text-align : right ; background-color: #F9EDCB}
+h4 {text-align : right}
+h4 + p {text-align : right}
+h2 + p {text-align : right}
+#age {color : white}
+#contact {color : white}
+#comp {color : white}
+#int {color : white}
+#bus {color : grey}
+#cam {color : grey}
+#liss {color : grey}
+#louis {color : grey}
+#bus + p {text-align : right}
+#cam + p {text-align : right}
+#liss + p {text-align : right}
+#col {
+	column-count : 2
+	}
+
