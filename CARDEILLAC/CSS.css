@@ -1,0 +1,73 @@
+body {
+    color:black;
+    background-color:rgb(232, 225, 225);
+    background-repeat:repeat;
+    }
+
+.photo{
+    height: 50px;
+    border-radius: 50%;
+    float : right ;
+}
+
+  .left-column{
+    grid-area: left-column;
+    padding: 50px;
+    background-color: #4472C4;
+    color: white;
+    width : 200px ;
+  }
+  .left-column{
+right : 150px ;
+  }
+.profil
+{
+    width: 200px;
+    height: 500px;
+    position: relative;
+}
+.exp 
+{
+    text-align: right ;
+    top : 175px ;
+   right: 70px;
+   position : absolute
+}
+.exp h2
+{
+    color: #4472C4;
+}
+.formation
+{
+    text-align: right;
+    top : 250px ;
+    right : 70px ;
+    position :absolute
+}
+.formation h2
+{
+    color:#4472C4;
+}
+.competences
+{
+    text-align: right;
+    top : 400px ;
+    right : 70px ;
+    position :absolute 
+}
+.competences h2
+{
+    color: #4472C4;
+
+}
+.RS
+{
+    text-align: right;
+    top : 550px ;
+    right : 70px ;
+    position :absolute
+}
+.RS h2
+{
+    color: #4472C4;
+}
