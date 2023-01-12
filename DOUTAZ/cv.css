@@ -1,0 +1,43 @@
+Body 
+{
+	background-color : orange ; text-align : center;
+}
+h1
+{
+	border: 5px solid black;
+}
+#expe 
+{
+	display: flex;
+
+    flex-flow: column;
+
+    align-items: center
+}
+
+
+h2
+{
+	background-color : white
+}
+.plonge {
+	align : center;
+	text-align : left;
+}
+.cr 
+{
+	align : center;
+	text-align : left;
+}
+.loisirs
+{
+	align : center;
+	text-align : left;
+}
+
+
+td
+{
+	border : 3px solid black;
+	border-radius : 10px;
+}
