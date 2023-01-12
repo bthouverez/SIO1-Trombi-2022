@@ -1,0 +1,178 @@
+
+.photo
+{
+    height: 250px;
+    float: right;
+}
+.cv
+{
+    width: 200px;
+    height: 100px;
+    background-color: #179498;
+    position: relative;
+}
+.cv h2
+{
+    color: #fff;
+    position: relative;
+    top: 65%;
+    margin: 10px;
+}
+.head
+{
+    color: #666;
+    line-height: 1px;
+}
+h2 
+{
+    color: #179498;
+}
+.profil
+{
+    width: 200px;
+    height: 500px;
+    background-color: #179498;
+    position: relative;
+}
+.profil h2
+{
+    margin: 10px;
+    position: relative;
+    color: #fff;
+    border-bottom: #fff solid;
+    top: 10px;  
+}
+.profil li
+{
+    list-style: none;
+    position: relative;
+    margin: 10px;
+    color: #fff;
+    padding-top: 20px; 
+}
+.expérience
+{
+    width: 750px;
+    height: 200px;
+    position: absolute;
+    left: 25%;
+    top: 5%;
+}
+.expérience h2
+{
+    border-bottom: #179498 solid ;
+}
+.expérience li
+{
+    list-style: none;
+}
+.expérience li b
+{
+    color: #666;
+    font-size: 20px;
+}
+.formation
+{
+
+    width: 750px;
+    height: 200px;
+    position: absolute;
+    left: 25%;
+    top: 20%;
+}
+.formation h2
+{
+    border-bottom: #179498 solid ;
+}
+.formation li
+{
+    list-style: none;
+    position: relative;
+}
+.formation li b
+{
+    color: #666;
+    font-size: 20px
+}
+.formation u 
+{
+    text-decoration: none;
+    color: #666;
+    font-size: 20px
+}
+.formation p
+{
+    position: relative;
+    left: 14%;
+}
+.competence
+{
+    width: 750px;
+    height: 200px;
+    position: absolute;
+    left: 25%;
+    top: 49%;
+}
+.competence h2
+{
+    border-bottom: #179498 solid ;
+}
+.competence li
+{
+    list-style: none;
+    position: relative;
+}
+.competence li:nth-child(4)
+{
+    left: 50%;
+    top: -21%;
+}
+.competence li:nth-child(5)
+{
+    left: 50%;
+    top: -21%;
+}
+.interet
+{
+    width: 750px;
+    height: 200px;
+    position: absolute;
+    left: 25%;
+    top: 65%;
+}
+.interet h2
+{
+    border-bottom: #179498 solid ;
+}
+.interet li
+{
+    list-style: none;
+}
+.reseaux
+{
+    width: 750px;
+    height: 100px;
+    position: absolute;
+    left: 25%;
+    top: 81%;
+}
+.reseaux h2
+{
+    border-bottom: #179498 solid ;
+}
+.reseaux li
+{
+    list-style: none;
+    font-size: 25px;
+    text-align: center;
+}
+.reseaux a
+{
+    text-decoration: none;
+    color: black;
+}
+.reseaux a:hover
+{
+    text-decoration: underline;
+    color: #007BB5;
+}

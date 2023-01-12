@@ -1,0 +1,32 @@
+h1{
+    font-size: 45px;
+    text-align: center;
+    border-style: outset;
+}
+
+h2{
+    color: rgb(73, 91, 81);
+}
+
+
+.saricam{
+    color: rgb(73, 91, 81);
+}
+
+.left{
+    float: left;
+    max-width: 50%;
+}
+
+.right{
+    float: right;
+    max-width: 50%;
+}
+
+img{
+border-radius: 7%;
+}
+
+body{
+    background-color: rgb(234, 229, 229);
+}
