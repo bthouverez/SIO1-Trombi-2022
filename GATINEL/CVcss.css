@@ -1,0 +1,60 @@
+.all
+{
+	border-radius: 8px;
+	width:750px;
+    box-shadow: 0 0 10px #555; 
+	height: 750px;
+}
+
+
+
+img {
+	clip-path:ellipse(50% 40%);
+	margin: 95px;
+	width: 111.36px;
+	height: 148.224px;
+	margin-top:0px;
+	margin-bottom: 0px;
+}
+
+
+
+.gauche 
+{
+	border-radius: 8px;
+    box-shadow: 0 0 10px #555; 
+	margin-top:0px;
+	display: inline-block;
+	color: #F3D1A6;
+	background-color: #4A4A49;
+    width:300px;
+}
+
+
+
+.droite 
+{
+	margin-left: 20px;
+	display: inline-block;
+	width: 400px;
+}
+
+.xppro
+{
+	
+	background-color: #FACA9B;
+}	
+
+.info
+{
+	margin-left: 110px;
+}
+ 
+.nom
+{
+	margin-left: 18px;
+}
+
+.texte
+{
+	margin-left: 5px;
