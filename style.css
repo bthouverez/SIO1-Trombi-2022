@@ -1,16 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 #OZSOY
 {
     border : 5px green solid;
-=======
+}
 #CARDEILLAC
 {
-    border : 5px chartreuse double
->>>>>>> 7763c6036bba318fb3ad5c13f4468c466a521ffd
-=======
+    border : 5px chartreuse double;
+    }
 #BERTHIER
 {
     border: 5px orange double;
->>>>>>> db5e970ab37783381854931e9dbfd35d64822e72
+}
+#VERNUS {
+    border-color: red;
 }
